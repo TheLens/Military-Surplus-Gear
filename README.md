@@ -5,7 +5,7 @@ The Upshot released nation-wide figures on [Military Surplus Gear](https://githu
 This is a subset of that data -- looking at Orleans Parish, as well as several other cities in Louisiana. 
 
 * [Download the original Excel file](https://github.com/TheUpshot/Military-Surplus-Gear/raw/master/1033-program-foia-may-2014.xlsx)
-* [Download Orleans Parish data](https://www.muckrock.com/news/archives/2014/aug/15/we-have-pentagon-1033-program-data/)
+* [Download Orleans Parish data](https://raw.githubusercontent.com/TheLensNola/Military-Surplus-Gear/master/orleans.csv)
 
 The data shows military equipment given to state and local law enforcement agencies through the Defense Department's 1033 program. The data was received from the Defense Department in May 2014 as an Excel file, and includes transfers since 2006.
 
